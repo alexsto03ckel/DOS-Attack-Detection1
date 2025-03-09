@@ -9,15 +9,17 @@ This project implements a DoS (Denial of Service) attack detection system using 
 - Uses an AdaBoost classifier to detect potential DoS attacks
 - Provides a graphical user interface (GUI) for ease of use
 
-## Images
-Benign Connections
-![Benign Connections](images/benign connections.png)
+## Images  
 
-Network Connections Example
-![Network Connections](images/conexiones 1 alex.png)
+### Benign Connections  
+![Benign Connections](images/benign_connections.png)  
 
-Captured Data Sample
-![Captured Data](images/datos capturados alex.png)
+### Network Connections Example  
+![Network Connections](images/conexiones_1_alex.png)  
+
+### Captured Data Sample  
+![Captured Data](images/datos_capturados_alex.png)  
+
 
 ## Installation
 
