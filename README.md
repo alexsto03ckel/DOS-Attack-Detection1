@@ -67,6 +67,3 @@ cd DoS-Attack-Detection
 
 ## Acknowledgments
 This project was developed for research and educational purposes.
-
-## License
-This project is licensed under the MIT License.
