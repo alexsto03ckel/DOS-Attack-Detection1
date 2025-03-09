@@ -1,4 +1,3 @@
-# DOS-Attack-Detection
 # DoS Attack Detection
 
 This project implements a DoS (Denial of Service) attack detection system using machine learning. It captures network packets, extracts relevant features, and classifies them using a trained AdaBoost model.
